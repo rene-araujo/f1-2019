@@ -23,8 +23,8 @@ dotnet test ./src/f1-2019/f1-2019.csproj
 
 ## Built With
 
-* [.NET Core 2.1](https://www.microsoft.com/net/download) - .NET Core is a cross-platform version of .NET for building websites, services, and console apps.
+* [.NET Core 2.1](https://dotnet.microsoft.com/download) - .NET Core is a cross-platform version of .NET.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](link) file for details
+This project is licensed under the MIT License - see the [LICENSE.md] file for details
