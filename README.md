@@ -27,4 +27,4 @@ dotnet test ./src/f1-2019/f1-2019.csproj
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md] file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/rene-araujo/f1-2019/blob/master/LICENSE.md) file for details
