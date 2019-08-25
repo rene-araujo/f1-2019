@@ -1,9 +1,9 @@
 # f1-2019
 f1-2019 is a tool that generates the following results from a race log file:
--Gran prix result.
--Fastest laps per driver.
--Avarage speed per driver.
--Gap between winner and the other drivers.
+* Gran prix result.
+* Fastest laps per driver.
+* Avarage speed per driver.
+* Gap between winner and the other drivers.
 
 ## Usage
 
