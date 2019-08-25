@@ -15,7 +15,7 @@ dotnet run --project ./src/f1-2019/f1-2019.csproj "RACE_LOG_FILE_PATH"
 
 ## Test
 
-Run from command line inside project folder:
+Tests were built with [NUnit](https://nunit.org/). Run them from command line inside project folder:
 
 ```
 dotnet test ./src/f1-2019/f1-2019.csproj
